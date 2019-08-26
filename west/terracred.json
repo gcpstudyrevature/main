@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "revaturedemo",
+  "private_key_id": "2e36e83ab5eb13f1853ee534b7481e805523b7c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy3jyOeS5xl9l8\n8i2hcWfLKZTwAobQV8xi21kmdgxwoDjVrSgHdrrn1ky2ySfI9O34El5i9AsBKLwW\nu+gzxHxIADm6jGOmInDyBCAvTafp0P6y3ZHCT/XodgijO5Mko2W8KFpfUCoMRuQr\nW/Liv/rwmSZ/xvT9TEC3ETVbVRPwLfxzGzwsPdZeYwox8d71sdDYfV4jPtfGvTHs\n+Wlwsvwpz4MHZwKXq4PpgBgD/1Hnmb2izfojjMccQz16Gd/lJ3gxZh8K4PwOlDWc\nOnjP26VCvPUwFATp+lcPd8+W/LEMCbAQkh5rQHQ2/kMmP4gfAJ84goqNXDFbP4lF\nnRI5hkcvAgMBAAECggEAGp5aErXUBJGdiyubQNBYqvJYONOXbn/yaa/M951Pwp8F\ndj8bmui/besFZZpP8mcI1wccxsscrCJ8w0FZkAKooCpwbOOhnMK5Xjrg80kyOOii\nTsoMfAdcSCjwpiIihqxOYo76y/5pE4SlRhKb9cSuOooAIbnhEaT8aIIGF750hiSB\nZrY8lPwfKnsSuZgBanqTDegtRnFoZQTNH6vezoXKZPDhdr14jyx3AhwRMjhfU4Um\nlO6KOxzw76ZNLR0AjCN3Qe9FwqozOcD/81X2hcY/qaF2/JTsDurclpzltbE2EHDY\nrMwMU/F24TYI/cnc2XcGxXToWeBlBSHvng0ZnMMLKQKBgQD46t/fXnRu78ui/dud\nDOWsww2BQXLdwyUgHCa3nq/AjK4g0ILatODmetDshMUIcB/NEXRcAAVyylMoTQWD\n5QHswUb71qd9vEQH83Xtjx6RatReu0gri+5x+7wJRw95+p+NXgKEBt8Fag4vcLaL\nqt6MsopS+OYWP22Hji4orA0YVQKBgQC39R6WLUk0BZ446P9eYEe0QNHDqtdR9gS7\n5Hux8PhQ1FmEqYT4s2LnLNNA2weI2/f7RmGyrJEQ84rmZAM6ZiW30DqnXbKvVBDg\nCLvivtdyE/zV0Yi3HhTVDZrZzJu4bc+igo9dE4PSoagSjw8Sd6dUNdDMEontFN2d\ncr+v8O/1cwKBgFkJGn75eEheOcbZav6oKFc9hc0gLggoz1TG/QpdFpyXNYnDS6sT\nXAbVE3omm5vDD3z4q1hlIY3H1SrrMffVqHSZRdy7ETomZ2c4rIwGz3ZQchpYfx4k\ndWwMEVx4MI7/GKcmY1v6YTe8kcpiVMlsmyJUkqnPIe3/ThxYvSYLNLvpAoGBAIC0\nAn5XmMvI0nZGrcQ94G0AnMIlGRjC43UB2nkYeuMybp8ea2YFO8E532OU2qSqIcmv\n6FK14ZjWi+u9NXT6WpFMIn1OVOHOEzBra+isVNf/m/mM6/YSGckmB50yRhC243pz\nlhIswSHw8EJrzMPC61NDg54DqnQxEQxDaFGUZI55AoGABhz+hICWNTqYDoRvbNNh\npSI2tGaY+HPrv5kXatWiEJa2nW9Ow0yUcfr8JdSFQbN1GxnqH7uHyE0zob/1H0ld\nJ76hAS/YSwcMALp0j1Cc0R7x332PuyzTm7+NBkWdF9l2PCWCI4WYK/eSwOT+TBHE\n15HgigS9K/oI3ZzrGEKLY+4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-admin@revaturedemo.iam.gserviceaccount.com",
+  "client_id": "110788695826917091794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-admin%40revaturedemo.iam.gserviceaccount.com"
+}
