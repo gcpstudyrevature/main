@@ -5,10 +5,17 @@ provider "google" {
   credentials = "C:/revature/gcpcase/west/terracred.json"
 }
 
-resource "google_compute_network" "vpc-west" {
+resource "google_compute_network" "vpc" {
 
   name = "abc-west-vpc"
   auto_create_subnetworks = false
   routing_mode = "GLOBAL"
   
 }
+
+resource "google_compute_firewall" "allow-internal" {
+  name = "${google_compute_network.vpc.name}-fw-internal"
+  
+  
+}
+
