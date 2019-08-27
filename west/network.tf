@@ -2,7 +2,7 @@ provider "google" {
   project = "$(PROJECT_ID)"
   region  = "us-west1"
   zone    = "us-west-b"
-  credentials = "C:/revature/gcpcase/west/terracred.json"
+  credentials = "$(KEY_ID)"
 }
 
 resource "google_compute_network" "vpc" {
